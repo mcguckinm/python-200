@@ -5,7 +5,6 @@ from scipy import stats
 from scipy.stats import pearsonr
 import seaborn as sns
 
-
 #Pandas Question 1
 
 data = {
